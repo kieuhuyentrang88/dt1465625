@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS tblbookIUH1465625 (
     author varchar NOT NULL
 );
 
-INSERT INTO tblbook (title, author) VALUES
+INSERT INTO tblbookIUH1465625 (title, author) VALUES
   ('DevOps', 'IUH1465625'),
   ('Big Data', 'IUH1465625'),
   ('Cloud Deployement', 'IUH1465625'),
